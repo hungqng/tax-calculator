@@ -1,5 +1,6 @@
 # tax-calculator
-- A simple calculator CMD app using Python
+- A simple terminal calculator app using Python
+- Based on 2022 tax year information from irs.gov for single filer
 - A WIP project
 
 ## Built With:
