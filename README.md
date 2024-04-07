@@ -1,6 +1,6 @@
 # tax-calculator
 
-A tax calculator app designed to calculate federal income tax for a taxpayer based on the tax year, filing status, and income. 
+A tax calculator app designed to calculate federal income tax for a taxpayer based on the tax year, filing status, and income. It can be run using the terminal or command line interface. 
 Currently support tax years 2022, 2023, and 2024 for single or joint filers only.
 
 Upcoming:
