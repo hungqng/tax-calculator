@@ -1,7 +1,7 @@
 # tax-calculator
-- A simple terminal calculator app using Python
-- Based on 2022 tax year information from irs.gov for single filer
-- A WIP project
+
+A tax calculator app designed to calculate federal income tax for a taxpayer based on the tax year, filing status, and income. 
+Currently support tax years 2022, 2023, and 2024 for single or joint filers only.
 
 ## Built With:
 1. Python
